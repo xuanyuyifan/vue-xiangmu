@@ -3,3 +3,10 @@ html,body,#app{
     margin: 0;
     padding: 0;
 }
+.box-card{
+    margin-top: 15px;
+    box-shadow: 0 1px 1px rgba(158, 120, 120, 0.15) !important;
+}
+.el-pagination{
+    margin-top: 15px;
+}
